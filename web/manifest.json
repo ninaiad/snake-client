@@ -1,0 +1,11 @@
+{
+    "name": "snake-game",
+    "short_name": "snake-game",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1E2326",
+    "theme_color": "#1E2326",
+    "description": "A Snake game web application.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
